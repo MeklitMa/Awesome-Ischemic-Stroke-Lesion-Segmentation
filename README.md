@@ -2,7 +2,7 @@
 
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
-This repository contains a curated list of papers from our survey, _A Survey on Deep Learning for Ischemic Stroke Lesion Segmentation_, covering recent advances in deep learning-based methods.
+This repository contains a curated list of papers from our survey, _Deep Learning for Ischemic Stroke Lesion Segmentation: A Systematic Review_, covering recent advances in deep learning-based methods.
 
 **Please feel free to submit a pull request if you want to add related papers.**
 
